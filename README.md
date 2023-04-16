@@ -15,4 +15,6 @@ Modeling wave propagation in a 2D elastic environment
 
 Данная модель позволяет воспроизводить гораздо более сложные волновые процесс, а с визуальной точки зрения существенно более наглядные.
 
+Ниже представлена видеопрезентация с пояснениями:
+
 [![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/z4G6S41w_Ls/0.jpg)](https://www.youtube.com/watch?v=z4G6S41w_Ls)
