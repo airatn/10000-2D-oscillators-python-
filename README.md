@@ -9,11 +9,11 @@ A transverse wave is a waveform in which the particles of the medium oscillate a
 <p><img src="https://www.minfo.ru/different_imgs/img7.png" width="600"><figcaption></figcaption></p>
 
 Here m is the mass of the corresponding node, k is the coefficient of spring elasticity, and c is the coefficient of resistance.
-The third form within the proposed classification is the cytoarchitectural model; it is shown in Fig. 3. The system employs the previously presented block components, which are depicted as the third interpretation in Fig. 3. For greater consistency of perception, each block is associated with a corresponding differential equation simulating a body connected by springs to other neighboring bodies. The upper part shows extra parallel fibers transmitting impulses from one body to another. The entire chain is represented by one hundred equations or a hundred blocks, each connected to the surrounding blocks by two fibers. 
+The third form within the proposed classification is the cytoarchitectural model; it is shown in Fig. 3. The system employs the previously presented block components, which are depicted as the third interpretation in Fig. 2. For greater consistency of perception, each block is associated with a corresponding differential equation simulating a body connected by springs to other neighboring bodies. The upper part shows extra parallel fibers transmitting impulses from one body to another. The entire chain is represented by one hundred equations or a hundred blocks, each connected to the surrounding blocks by two fibers. 
 
-<p><img src="https://www.minfo.ru/different_imgs/img9.png" width="600"><figcaption>Fig. 2.	Fig. 1.	Cerebellum cytoarchitecture and its interpretation as a mechanism for the computational solution of differential equations systems..</figcaption></p>
+<p><img src="https://www.minfo.ru/different_imgs/img9.png" width="600"><figcaption>Fig. 2.	Cerebellum cytoarchitecture and its interpretation as a mechanism for the computational solution of differential equations systems..</figcaption></p>
 
-<p><img src="https://www.minfo.ru/different_imgs/img8.png" width="600"><figcaption>Fig. 2.	Part of the cytoarchitecture of the wave propagation model.</figcaption></p>
+<p><img src="https://www.minfo.ru/different_imgs/img8.png" width="600"><figcaption>Fig. 3.	Part of the cytoarchitecture of the wave propagation model.</figcaption></p>
 
 For example, below is the code for declaring an array of parallel fibers in conjunction with granular cells:
 
