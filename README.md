@@ -18,7 +18,7 @@ For an elastic plane composed of 100x100 bodies, there will be 10 000 differenti
 
 In this section we present a Python code (pyglet library is required) that allows to create inhomogeneous environments in the editor mode and generate oscillation propagation centers in them. An example of the program operation is shown below in Fig.3
 
-<p><img src="https://www.minfo.ru/different_imgs/gif10b.gif" width="600"><figcaption>Fig. 3. Demonstration of the work of the program for modeling the propagation of oscillations in inhomogeneous media.</figcaption></p>
+<p><img src="https://www.minfo.ru/different_imgs/gif10c.gif" width="600"><figcaption>Fig. 3. Demonstration of the work of the program for modeling the propagation of oscillations in inhomogeneous media.</figcaption></p>
 
 
 
